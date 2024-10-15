@@ -104,4 +104,8 @@ Contributions are welcome! Feel free to fork this repository and submit your imp
 
 This project is for educational purposes and is not licensed for commercial use.
 
+<<<<<<< Updated upstream
 ---
+=======
+---
+>>>>>>> Stashed changes
