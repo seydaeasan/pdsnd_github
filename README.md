@@ -1,8 +1,10 @@
+Çakışmaları düzenleyerek birleşik bir sürüm hazırladım. Aşağıdaki düzenleme, iki sürümdeki içeriği bir araya getirerek çakışmaları çözmektedir:
 
+---
 
 # Bikeshare Data Analysis
 
-This project provides a Python program to explore and analyze bikeshare data from three major U.S. cities: **Chicago**, **New York City**, and **Washington**. The program enables users to filter data by city, month, and day of the week, generating various statistics to better understand bikeshare usage patterns.
+This project provides a Python program to explore and analyze bikeshare data from three major U.S. cities: **Chicago**, **New York City**, and **Washington**. The program allows users to filter data by city, month, and day of the week, generating various statistics to help understand bikeshare usage patterns.
 
 ## Features
 
@@ -11,13 +13,13 @@ The program includes the following features:
 2. **Time Statistics**: Insights into the most common travel times, including the most common month, day, and start hour.
 3. **Station Statistics**: Displays the most popular start and end stations, as well as the most common trip combinations.
 4. **Trip Duration Statistics**: Computes total and average trip durations.
-5. **User Statistics**: Shows statistics on user types, gender distribution (where available), and birth year data.
+5. **User Statistics**: Shows statistics on different user types, gender distribution (where available), and birth year data.
 
 ## Installation
 
 To run this project, ensure you have the following installed:
-- **Python 3.x** 
-- **Required Libraries**: Install the necessary libraries with the following command:
+- **Python 3.x**
+- **Required Libraries**: You can install the necessary libraries with the following command:
   ```bash
   pip install pandas numpy
   ```
@@ -94,7 +96,7 @@ Would you like to restart? Enter yes or no.
 
 ## Error Handling
 
-The program incorporates basic error handling for user input. If an invalid city, month, or day is entered, the user will be prompted to try again.
+The program includes basic error handling for user input. If an invalid city, month, or day is entered, the program will prompt the user to try again.
 
 ## Contributing
 
@@ -104,8 +106,3 @@ Contributions are welcome! Feel free to fork this repository and submit your imp
 
 This project is for educational purposes and is not licensed for commercial use.
 
-<<<<<<< Updated upstream
----
-=======
----
->>>>>>> Stashed changes
